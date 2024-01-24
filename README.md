@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mahyar-askarinejad-7b4095194/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=askari.m1379@gmail.com&su=SUBJECT&body=BODY">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/mhyr_askri">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
 Here are some ideas to get you started:

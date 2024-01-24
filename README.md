@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on **STM32 and C, C++, C# language**
+- 🔭 I’m currently working on **STM32 and C, C++, C# languages**
 - 👯 I’m looking to collaborate on **Hardware**
 - 🤔 I’m looking for help with **STM32 microes**
 - 💬 Ask me about **STM32**

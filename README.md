@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="324"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahyar-askarinejad-7b4095194/">
@@ -11,6 +11,9 @@
   <a href="https://t.me/mhyr_askri">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MhyrAskri&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there 👋

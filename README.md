@@ -25,8 +25,8 @@
 
 - 🔭 I’m currently working on **STM32 and C, C++, C# languages**
 - 👯 I’m looking to collaborate on **Hardware**
-- 🤔 I’m looking for help with **STM32 microes**
-- 💬 Ask me about **STM32**
+- 🤔 I’m looking for help with **STM32 micros**
+- 💬 Ask me about **STM32 micros**
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=askari.m1379@gmail.com&su=SUBJECT&body=BODY)
 
 ---
